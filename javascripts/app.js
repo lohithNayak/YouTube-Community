@@ -1,4 +1,4 @@
-/*! For license information please see app.js.LICENSE */ ! function(A) {
+ ! function(A) {
     var n = window.webpackHotUpdate;
     window.webpackHotUpdate = function(e, t) {
         ! function(e, t) {
